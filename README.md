@@ -8,4 +8,5 @@ as três categorias principais da computação em nuvem
 IaaS: Aluga a máquina.
 PaaS: Aluga o ambiente de trabalho.
 SaaS: Aluga o programa pronto. 
+<img width="1617" height="968" alt="Captura de tela 2026-03-26 210553" src="https://github.com/user-attachments/assets/1d803b4a-732a-4c2f-9dc2-0144f508fe9c" />
 
