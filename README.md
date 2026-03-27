@@ -9,4 +9,5 @@ IaaS: Aluga a máquina.
 PaaS: Aluga o ambiente de trabalho.
 SaaS: Aluga o programa pronto. 
 <img width="1617" height="968" alt="Captura de tela 2026-03-26 210553" src="https://github.com/user-attachments/assets/1d803b4a-732a-4c2f-9dc2-0144f508fe9c" />
+<img width="1883" height="967" alt="image" src="https://github.com/user-attachments/assets/2feceb4a-efbc-45c4-9a62-f6f1f1b89817" />
 
